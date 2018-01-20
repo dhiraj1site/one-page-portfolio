@@ -1,0 +1,29 @@
+{
+  "title": "Portfolio",
+  "name": "dhiraj-portfolio",
+  "description": "A stylish portfolio HTML template built with Bootstrap",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "license": "MIT",
+  "author": "Dhiraj Timalsina",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "font-awesome": "4.7.0",
+    "jquery": "^3.2.1",
+    "jquery-easing": "0.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-htmlmin": "^2.4.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-uncss": "^0.8.0"
+  }
+}
