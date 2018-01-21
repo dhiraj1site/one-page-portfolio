@@ -37,7 +37,7 @@
   </header>
 
   <!-- About -->
-  <section class="content-section bg-light" id="about">
+  <section class="content-section text-white bg-starnight" id="about">
     <div class="container text-center">
       <div class="row">
         <div class="col-lg-10 mx-auto">
@@ -46,7 +46,7 @@
           </p>
           <p class="mb-1">Check out my - <a target="blank" href="https://github.com/dhiraj1site">Github</a></p>
           <p class="mb-5">Check out my - <a target="blank" href="https://www.linkedin.com/in/tdhiraj/">LinkedIn</a></p>
-          <a class="btn btn-info btn-xl js-scroll-trigger" href="#services">Why me?</a>
+          <a class="btn btn-info btn-xl js-scroll-trigger" href="#services">Cool!</a>
         </div>
       </div>
     </div>

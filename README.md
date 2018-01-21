@@ -1,6 +1,6 @@
 # Portfolio By Dhiraj
 
-A one-page responsive portfolio is made with Bootstrap, and acquires minimal dependencies to jQuery, jQuery easing and font-awesome. 
+This one-page responsive portfolio HTML template is made with Bootstrap, and acquires minimal dependencies to jQuery, jQuery easing and font-awesome. 
 
 ## Getting Started
 
@@ -8,7 +8,6 @@ Clone the repository, and run a
 
 ```
 npm-install
-
 ```
 
 This will install all the dependencies associated with the included package.json file 
@@ -20,7 +19,6 @@ Namely,
 The site was built using [Bootstrap v4.0](https://getbootstrap.com/)
 
 ## Usage
-
 
 Copyright (c) 2017 Dhiraj Timalsina
 
