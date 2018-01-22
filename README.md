@@ -10,6 +10,8 @@ Clone the repository, and run a
 npm-install
 ```
 
+Make necessary changes to your file, and run `grunt` to trigger default grunt tasks. You can change the required default tasks accordingly in your `Gruntfile.js`
+
 This will install all the dependencies associated with the included package.json file 
 
 Namely, 
